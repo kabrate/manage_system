@@ -1,0 +1,13 @@
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\bin\Debug\教务管理系统.exe
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\bin\Debug\教务管理系统.pdb
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\bin\Debug\System.Data.SQLite.dll
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\bin\Debug\System.Data.SQLite.pdb
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.Form1.resources
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.Properties.Resources.resources
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.csproj.GenerateResource.Cache
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.csproj.CoreCompileInputs.cache
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.exe
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.pdb
+C:\Users\付景昌\Desktop\教务管理系统\教务管理系统\obj\Debug\教务管理系统.signin_Form.resources
