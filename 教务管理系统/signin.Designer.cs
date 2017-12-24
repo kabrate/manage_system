@@ -54,21 +54,21 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label3.Location = new System.Drawing.Point(262, 202);
+            this.label3.Location = new System.Drawing.Point(231, 200);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(35, 14);
+            this.label3.Size = new System.Drawing.Size(77, 14);
             this.label3.TabIndex = 3;
-            this.label3.Text = "密码";
+            this.label3.Text = "请输入密码";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("宋体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label2.Location = new System.Drawing.Point(262, 165);
+            this.label2.Location = new System.Drawing.Point(231, 163);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 14);
+            this.label2.Size = new System.Drawing.Size(77, 14);
             this.label2.TabIndex = 4;
-            this.label2.Text = "账号";
+            this.label2.Text = "请输入账号";
             // 
             // signin_button
             // 
@@ -104,6 +104,8 @@
             this.Name = "signin_Form";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "注册";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.signin_Form_FormClosed);
+            this.Load += new System.EventHandler(this.signin_Form_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

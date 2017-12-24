@@ -33,5 +33,16 @@ namespace 教务管理系统
             Form1 form1 = new Form1();
             form1.Show();
         }
+
+        private void signin_Form_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void signin_Form_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Form1 form1 = new Form1();
+            form1.Close();
+        }
     }
 }
