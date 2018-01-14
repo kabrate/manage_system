@@ -82,6 +82,21 @@ public class DB
 
         }
     }
+    public static void selectall()
+    {
+        using (SQLiteConnection conn = new SQLiteConnection("Data Source=magrsys.db;"))
+        {
+            conn.Open();
+            SQLiteCommand cmd = conn.CreateCommand();
+            cmd.CommandText = "select * from stu";
+            int rows = cmd.ExecuteNonQuery();
+            SQLiteDataAdapter sda = new SQLiteDataAdapter(cmd);
+            DataSet ds = new DataSet();
+            sda.Fill(ds);
+            conn.Close();
+            
+        }
+    }
     public static int delete(string string1, string string2, string string3)
     {
         try
